@@ -1,6 +1,7 @@
 # Proyecto Hello world!
 
-## Descripción Este es mi primer proyecto Git, lo he llamado "Hello world!" y por el
+## Descripción 
+Este es mi primer proyecto Git, lo he llamado "Hello world!" y por el
 momento tiene poca cosa, un script de Python que cuando lo ejecutas
 simplemente imprime por pantalla el mensaje "Hello world!".
 
